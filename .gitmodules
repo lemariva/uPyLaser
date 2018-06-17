@@ -1,0 +1,6 @@
+[submodule "uPySensors"]
+	path = uPySensors
+	url = https://github.com/lemariva/uPySensors.git
+[submodule "ESP32MicroPython"]
+	path = ESP32MicroPython
+	url = https://github.com/lemariva/ESP32MicroPython.git
